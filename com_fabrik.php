@@ -3,13 +3,13 @@
 /**
 
 Joomla Component com_fabrik Arbitrary File Upload
-Author: Et04 & bL@cKID
+Author: Mr.Arsad
 
 Google Dork
 inurl:/index.php?option=com_fabrik
 
 Auto Exploiter (Auto Upload & Auto Submit Zone-H)
-Coded by: L0c4lh34rtz - IndoXploit
+Coded by: Mr.Arsad Ft Mr.Djono - IndoXploit
 */
 
 Class IDX_Fabrik {
